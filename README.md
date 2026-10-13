@@ -56,4 +56,6 @@ python script.py
 Bash
 pip install PyPDF2
 
+（又はinstall PyPDF2.batを実行してください。）
+
 パスの移動: スクリプトをどのPCやフォルダに移動しても、スクリプトの配置場所を基準に自動で相対パス（pdfCombination）を探すため、そのまま利用可能です。
